@@ -1,4 +1,4 @@
-# Pos-Graduacao
+# Pós-Graduação
 Exercícios e aprendizados da Pós-graduação em Inteligência Artificial e Aprendizado de Máquina pela Puc Minas
 
 
