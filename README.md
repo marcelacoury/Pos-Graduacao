@@ -10,9 +10,9 @@ Conteúdos do Curso: :books:
 5. Integração e Processamento de fluxo contínuo de dados :white_check_mark:
 6. Modelos Estatísticos :white_check_mark:
 7. Machine Learning :white_check_mark:
-8. Redes Neuraise Aprendizagem Profunda 
-9. Recuperação de Informação na web e redes sociais
-10. Processamento de Linguagem Neural
+8. Redes Neuraise Aprendizagem Profunda :white_check_mark: 
+9. Recuperação de Informação na web e redes sociais :white_check_mark:
+10. Processamento de Linguagem Neural :white_check_mark:
 11. Sistemas de Recomendação
 12. Análise de Imagem e Visão Computacional
 13. Cultura e Práticas DataOps e MLOps
