@@ -13,9 +13,9 @@ Conteúdos do Curso: :books:
 8. Redes Neuraise Aprendizagem Profunda :white_check_mark: 
 9. Recuperação de Informação na web e redes sociais :white_check_mark:
 10. Processamento de Linguagem Neural :white_check_mark:
-11. Sistemas de Recomendação
-12. Análise de Imagem e Visão Computacional
-13. Cultura e Práticas DataOps e MLOps
+11. Sistemas de Recomendação :white_check_mark:
+12. Análise de Imagem e Visão Computacional :white_check_mark:
+13. Cultura e Práticas DataOps e MLOps :white_check_mark:
 14. Algoritmos e Programação Genética
 15. Tópicos Especiais em Machine Learning
 16. Humanidades
