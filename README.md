@@ -16,7 +16,7 @@ Conteúdos do Curso: :books:
 11. Sistemas de Recomendação :white_check_mark:
 12. Análise de Imagem e Visão Computacional :white_check_mark:
 13. Cultura e Práticas DataOps e MLOps :white_check_mark:
-14. Algoritmos e Programação Genética
-15. Tópicos Especiais em Machine Learning
-16. Humanidades
-17. Projeto Integrado
+14. Algoritmos e Programação Genética :white_check_mark:
+15. Tópicos Especiais em Machine Learning :white_check_mark:
+16. Humanidades :white_check_mark:
+17. Projeto Integrado :white_check_mark:
