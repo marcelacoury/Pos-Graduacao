@@ -19,4 +19,4 @@ Conteúdos do Curso: :books:
 14. Algoritmos e Programação Genética :white_check_mark:
 15. Tópicos Especiais em Machine Learning :white_check_mark:
 16. Humanidades :white_check_mark:
-17. Projeto Integrado :white_check_mark:
+17. Projeto Integrado - Sistema de Recomendação de Filmes (portifólio separado) :white_check_mark:
